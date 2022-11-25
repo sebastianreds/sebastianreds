@@ -2,7 +2,8 @@
 
 **sebastianreds/sebastianreds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![This is me](https://github.com/JustCodeItDeveloper/JustCodeItDeveloper/blob/main/logo.jpeg)
+![This is me](https://github.com/sebastianreds/sebastianreds/blob/main/cover-ssr.png)
+
 ```javascript
 const KeepCoding = {
 code: [
